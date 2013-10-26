@@ -1,0 +1,24 @@
+Introduction
+Welcome to the beginners course of the School of Data. In this course we will cover the basics of data wrangling and visualization and will discover and tell a story in a dataset.
+
+In this module, you will learn where to start looking for data. We begin with an introduction to some of the basics of data – key terms like qualitative, quantitative, machine-readable, discrete and continuous data, which crop up again and again for Data Wranglers.
+
+Most things start with a question
+Most people don’t just wrangle data for fun. They have a story to tell or a problem to solve.
+
+Often you will start with a question in mind. This could be anything from: ‘How often does the sun shine in my hometown?’ to ‘How does my government spend its money? And where do they get it from?’. A question is a good starting point for exploring your data – it makes you focused and helps you to detect interesting patterns in the data. Understanding for whom your question is interesting will also help you to define the audience you need to work for, and will help you to shape your story.
+
+What if you start without a question? You’re just exploring. If you find something that looks interesting in your dataset, you can start examining it as if this was the question you had in mind. Sometimes patterns in data can be explained by investigating what causes the patterns. This is often a story worth telling.
+
+Whether you began with a question or not, you should always keep your eyes open for unexpected patterns, unusual results, or anything that surprises you. Often, the most interesting stories aren’t the ones you were looking for.
+
+In this course we will start with a question and then explore a dataset with this question in mind. We will also roam around and explore whether there is something interesting hidden in the data.
+
+The question we will focus on for the Data Fundamentals Course will be: How does healthcare spending influence life expectancy?
+
+Task: Think of a question you would like to answer using data.
+
+What is Data?
+Data is all around us. But what exactly is it? Data is a value assigned to a thing. Take for example the balls in the picture below.
+
+- See more at: http://schoolofdata.org/handbook/courses/what-is-data/#sthash.220zgxDF.dpuf
