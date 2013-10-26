@@ -1,4 +1,5 @@
 Introduction
+
 Welcome to the beginners course of the School of Data. In this course we will cover the basics of data wrangling and visualization and will discover and tell a story in a dataset.
 
 In this module, you will learn where to start looking for data. We begin with an introduction to some of the basics of data – key terms like qualitative, quantitative, machine-readable, discrete and continuous data, which crop up again and again for Data Wranglers.
@@ -24,6 +25,7 @@ Data is all around us. But what exactly is it? Data is a value assigned to a thi
 - See more at: http://schoolofdata.org/handbook/courses/what-is-data/#sthash.220zgxDF.dpuf
 
 What is Data?
+
 Data is all around us. But what exactly is it? Data is a value assigned to a thing. Take for example the balls in the picture below.
 
 Golf balls
